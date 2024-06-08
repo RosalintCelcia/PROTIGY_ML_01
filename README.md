@@ -1,2 +1,2 @@
-# PROTIGY_ML_01
+# PROTIGY_ML
   Implementation of projects for internship
